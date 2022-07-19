@@ -9,4 +9,7 @@
 ## Sent Email:
 
 - Thunder Client: API Test
-  ![Alt Image](https://drive.google.com/uc?export=view&id=1Gf8RMI1tMQAQoRvpvwyWc-mzXGzcMMFa)
+  ![API Test (ThunderClient)](https://drive.google.com/uc?export=view&id=1Gf8RMI1tMQAQoRvpvwyWc-mzXGzcMMFa)
+
+- Proof of sent email:
+![Email Received](https://drive.google.com/uc?export=view&id=1-iJi_jZsoFmOGf6dSVkzJTnS2cr_VnEF)
